@@ -1,2 +1,2 @@
-# dev-resources
-Links to resources on web development related research topics
+# Font Optimization
+- [CSS Tricks's Font Delivery Strategy] (https://www.zachleat.com/web/css-tricks-web-fonts/)
