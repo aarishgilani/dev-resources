@@ -10,6 +10,7 @@
 - [Pixel Market - Free illustrations](https://pixels.market/)
 - [IBM Design Language](https://www.ibm.com/design/language/)
 - [Spectrum - Adobe's design system](https://spectrum.adobe.com/)
+- [Polaris - Shopify's design system](https://polaris.shopify.com/)
 - [Charcoal Design - Design resources](https://www.charco.design/)
 - [Tools.design - Design resources and tools](https://www.toools.design/)
 - [Design Principles - Open source collection of design principles](https://principles.design/)
@@ -27,12 +28,29 @@
 - [What can my font do? Font audit tool](https://wakamaifondue.com/)
 - [fontTools - Font manipulation library](https://github.com/fonttools/fonttools)
 
+## JavaScript Libraries
+- [Maska - A simple zero-dependency input mask library](https://beholdr.github.io/maska/v3/#/)
+- [MingleJS - Use React/Vue complex componenets in your Livewire application](https://minglejs.unitedbycode.com/) 
+
 ## Other
 - [Prism - Syntax highlighter for markdown](https://prismjs.com/)
 - [Mermaid - Graphs for markdown](https://mermaid.js.org/)
 - [Invision's Blog](https://www.invisionapp.com/inside-design)
 - [A List Apart - For people who build websites](https://alistapart.com/)
 - [Jeff Gothelf](https://jeffgothelf.com/)
+- [Radical Design Course - Make cool websites](https://radicaldesigncourse.com/)
+- [Laranews - Updates on Laravel ecosystem](https://laravel-news.com/)
+- [Article on creating PHP helpers in Laravel application](https://laravel-news.com/creating-helpers)
+- [Git Hacks](https://laravel-news.com/five-ways-to-be-more-productive-with-git)
+- [Curlwind - Generate Tailwind CSS on demand](https://curlwind.com/)
+- [Lunar - Headless E-commerce store in Laravel](https://lunarphp.io/)
+- [OpnForm - Free forms in minutes](https://opnform.com/)
+
+## UI Libraries
+- [Dash UI - Tailwind UI componenets inspired by Shopify Polaris](https://combind.notion.site/Dash-UI-288a0eaa11854c69acae5da7842ee788)
+- [TallStackUI - Tailwind UI components for Livewire apps](https://tallstackui.com/)
+- [Turbine UI - Laravel Blade & Tailwind CSS UI Component Library](https://turbineui.com/)
+- [Pines - An Alpine & Tailwind UI Library](https://devdojo.com/pines)
 
 ## UX Resources
 - [Digital.gov - United States government's guide on usability](https://digital.gov/topics/usability/)
