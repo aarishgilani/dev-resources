@@ -11,4 +11,8 @@
 - [Tina CMS](https://tina.io/)
 
 ## Other
-- [Syntax highlighter for markdown](https://prismjs.com/)
+- [Prism - Syntax highlighter for markdown](https://prismjs.com/)
+- [Mermaid - Graphs for markdown](https://mermaid.js.org/)
+
+## Design Resources
+- [Undraw - Open source illustrations](https://mermaid.js.org/)
