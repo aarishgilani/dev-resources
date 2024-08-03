@@ -9,3 +9,6 @@
 ## CMS of Choice
 - [Statamic CMS](https://statamic.com/)
 - [Tina CMS](https://tina.io/)
+
+## Other
+- [Syntax highlighter for markdown](https://prismjs.com/)
