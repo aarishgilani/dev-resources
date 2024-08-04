@@ -39,6 +39,7 @@
 ## Jekyll
 - [Awesome Jekyll Plugins - GitHub repo](https://github.com/planetjekyll/awesome-jekyll-plugins)
 - [Jekyll Style Guide Template - GitHub repo](https://jeromecoupe.github.io/jekyllstyleguide/)
+- [Jekyll Style Guide Boilerplate - Matthew Elsom](https://github.com/matthewelsom/Project-JekyllStyleguide)
 
 ## Other
 - [Prism - Syntax highlighter for markdown](https://prismjs.com/)
