@@ -14,6 +14,10 @@
 - [Charcoal Design - Design resources](https://www.charco.design/)
 - [Tools.design - Design resources and tools](https://www.toools.design/)
 - [Design Principles - Open source collection of design principles](https://principles.design/)
+- [PatternLab - Atomic Design Systems](https://patternlab.io/)
+- [Article on Atomic design - Brad Frost](https://bradfrost.com/blog/post/atomic-web-design/)
+- [Website Style Guide Resources](http://styleguides.io/tools.html)
+- [Drizzle - Tool for developing, documenting, and presenting UI pattern libraries](https://github.com/cloudfour/drizzle)
 
 ## Fonts
 - [The League Of Moveable Type](https://www.theleagueofmoveabletype.com/)
@@ -30,7 +34,11 @@
 
 ## JavaScript Libraries
 - [Maska - A simple zero-dependency input mask library](https://beholdr.github.io/maska/v3/#/)
-- [MingleJS - Use React/Vue complex componenets in your Livewire application](https://minglejs.unitedbycode.com/) 
+- [MingleJS - Use React/Vue complex componenets in your Livewire application](https://minglejs.unitedbycode.com/)
+
+## Jekyll
+- [Awesome Jekyll Plugins - GitHub repo](https://github.com/planetjekyll/awesome-jekyll-plugins)
+- [Jekyll Style Guide Template - GitHub repo](https://jeromecoupe.github.io/jekyllstyleguide/)
 
 ## Other
 - [Prism - Syntax highlighter for markdown](https://prismjs.com/)
