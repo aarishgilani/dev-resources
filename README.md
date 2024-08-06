@@ -60,6 +60,7 @@
 - [TallStackUI - Tailwind UI components for Livewire apps](https://tallstackui.com/)
 - [Turbine UI - Laravel Blade & Tailwind CSS UI Component Library](https://turbineui.com/)
 - [Pines - An Alpine & Tailwind UI Library](https://devdojo.com/pines)
+- [DaisyUI - TailwindCSS components](https://daisyui.com/)
 
 ## UX Resources
 - [Digital.gov - United States government's guide on usability](https://digital.gov/topics/usability/)
